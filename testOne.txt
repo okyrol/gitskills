@@ -1,7 +1,5 @@
 this text created for test
 
-<<<<<<< HEAD
 I test how to use the git
-=======
-come on, you are doing a good job
->>>>>>> feature1
+
+test disnable fast forward
