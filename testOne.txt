@@ -1,1 +1,3 @@
 this text created for test
+
+I test how to use the git
