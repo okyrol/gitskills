@@ -3,3 +3,5 @@ this text created for test
 I test how to use the git
 
 test disnable fast forward
+
+git is free software
